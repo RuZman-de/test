@@ -1,7 +1,10 @@
 ---
 name: "\U0001F4D7 Open an issue regarding JavaDoc"
 about: Let us know about any problematic API reference documents
-labels: doc
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 # 📗 JavaDoc Problem

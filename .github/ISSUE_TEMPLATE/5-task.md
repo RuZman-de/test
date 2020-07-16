@@ -1,6 +1,9 @@
 ---
 name: "\U0001F4DD New Task"
 about: Create a new task
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

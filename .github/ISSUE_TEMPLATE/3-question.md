@@ -1,6 +1,9 @@
 ---
-name: "\U00002753 Questions"
+name: "❓ Questions"
 about: Ask a question
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
