@@ -27,6 +27,6 @@ If you are unsure of something, do your best.
 -->
 
 - **Version**: ✍️
-- **Classname**: ✍️
+- **Class name**: ✍️
 - **Current text**: ✍️
 - **Suggestion**: ✍️
