@@ -1,11 +1,10 @@
 ---
-name: "\U0001F4D7 Open an issue regarding the API reference docs"
+name: "\U0001F4D7 Open an issue regarding JavaDoc"
 about: Let us know about any problematic API reference documents
-title: "doc: "
 labels: doc
 ---
 
-# 📗 API Reference Docs Problem
+# 📗 JavaDoc Problem
 
 <!--
 
