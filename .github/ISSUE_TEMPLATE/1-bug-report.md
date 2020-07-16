@@ -10,6 +10,13 @@ Thank you for reporting an issue.
 This issue tracker is for bugs and issues found within this project.
 
 Please fill in as much of the template below as you're able.
+-------
+
+The “✍️” are placeholders signifying requests for
+input. Replace them with your responses.
+
+If you are unsure of something, do your best.
+
 -->
 
 * **Version**: ✍️
@@ -26,7 +33,7 @@ run directly without installing third-party dependencies.
 
 ### What is the expected behavior?
 
-<!--
+<!-- 
 If possible please provide textual output instead of screenshots.
 -->
 
