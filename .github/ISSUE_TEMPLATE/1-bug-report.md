@@ -12,8 +12,8 @@ This issue tracker is for bugs and issues found within this project.
 Please fill in as much of the template below as you're able.
 -->
 
-* **Version**:
-* **Java-Version**:
+* **Version**: ✍️
+* **Java-Version**: ✍️
 
 ### What steps will reproduce the bug?
 
