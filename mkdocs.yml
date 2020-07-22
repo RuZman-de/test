@@ -25,6 +25,9 @@ markdown_extensions:
     - admonition
     - def_list
 
+extra_css:
+    - layout/extra.css
+
 copyright: Copyright ????
 
 plugins:
