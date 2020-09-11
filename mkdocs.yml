@@ -1,34 +1,19 @@
 site_name: GraphQL-IO
-site_url: https://www.mkdocs.org
-site_description: Project documentation with Markdown.
-site_author: MkDocs Team
-
-repo_url: https://github.com/RuZman-de/test
-edit_uri: ""
 
 theme:
-    name: mkdocs
+    name: material
     highlightjs: true
     hljs_languages:
         - java
+    logo: layout/graphql-io-logo.svg
 
 nav:
     - Home: index.md
     - User Guide:
         - Writing Your Docs: user-guide/start.md
-    - About:
-        - License: about/license.md
-
-markdown_extensions:
-    - toc:
-        permalink: 
-    - admonition
-    - def_list
 
 extra_css:
     - layout/extra.css
-
-copyright: Copyright ????
 
 plugins:
     - search
