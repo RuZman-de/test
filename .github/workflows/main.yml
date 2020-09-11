@@ -1,4 +1,4 @@
-- name: Deploy MkDocs
+name: Deploy MkDocs
   # You may pin to the exact commit or the version.
   # uses: mhausenblas/mkdocs-deploy-gh-pages@614194266daf30b8237c5110fe6203f7a367a2ca
   uses: mhausenblas/mkdocs-deploy-gh-pages@1.14
